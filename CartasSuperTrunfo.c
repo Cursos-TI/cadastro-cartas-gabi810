@@ -28,6 +28,9 @@ int main() {
             scanf("%f", &cartas[i].area);
 
             printf("pib: ");
+            scanf("%f", &cartas[i].pib);
+
+            printf("pontos turisticos: ");
 
 
         }

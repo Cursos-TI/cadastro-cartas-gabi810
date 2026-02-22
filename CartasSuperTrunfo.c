@@ -22,9 +22,14 @@ int main() {
             scanf("%s", cartas[i].codigo);
 
             printf("populacao: ");
-            scanf("%d", &cartas[i].codigo);
+            scanf("%d", &cartas[i].populacao);
 
             printf("area: ");
+            scanf("%f", &cartas[i].area);
+
+            printf("pib: ");
+
+
         }
         
         {

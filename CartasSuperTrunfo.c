@@ -23,6 +23,8 @@ int main() {
 
             printf("populacao: ");
             scanf("%d", &cartas[i].codigo);
+
+            printf("area: ");
         }
         
         {

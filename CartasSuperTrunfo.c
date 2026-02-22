@@ -21,7 +21,8 @@ int main() {
             printf("codigo da carta:");
             scanf("%s", cartas[i].codigo);
 
-            
+            printf("populacao: ");
+            scanf("%d", &cartas[i].codigo);
         }
         
         {

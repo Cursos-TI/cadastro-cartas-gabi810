@@ -33,15 +33,14 @@ int main() {
     }
     
     printf("\n=== cartas cadastradas ===\n");
-    return 0;
-        /* code */
-    }
     
-    {
+        /* code */
+    
         /* data */
+        return 0;
     };
     
-}
+
 
 
 
